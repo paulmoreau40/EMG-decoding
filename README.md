@@ -1,7 +1,7 @@
 # EMG decoding
  Grasp classification using EMG signals to control a robotic hand prosthesis
 
-# Literature:
+# Literature
 [1] Evaluation of the forearm EMG signal features for the control of a prosthetic hand, Reza Boostani and Mohammad Hassan Moradi 2003 Physiol. Meas. 24 309
 https://iopscience.iop.org/article/10.1088/0967-3334/24/2/307/pdf
 
