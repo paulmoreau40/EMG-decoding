@@ -1,5 +1,5 @@
-# EMG decoding
- Grasp classification using EMG signals to control a robotic hand prosthesis
+# EMG decoding : Grasp classification using EMG signals to control a robotic hand prosthesis
+This project was carried out in June 2022 as part of the "Fundamentals of engineering" academic course at EPFL (École Polytechnique Fédérale de Lausanne).
 
 # Literature
 [1] Evaluation of the forearm EMG signal features for the control of a prosthetic hand, Reza Boostani and Mohammad Hassan Moradi 2003 Physiol. Meas. 24 309
